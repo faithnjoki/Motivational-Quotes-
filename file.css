@@ -1,0 +1,27 @@
+body{
+    background:antiquewhite
+  }
+  .container{
+    position: relative;
+    top: 50px;
+  }
+  h4, h3{
+    color:black
+  }
+  
+  .card{
+    background:antiquewhite;
+   text-align: center;
+   font-size: 25px;
+  }
+  
+  .card button{
+    width: 250px;
+    height: 55px;
+    font-size: 22px;
+    border: none;
+    background: #5677e2;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
